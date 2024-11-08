@@ -1,7 +1,7 @@
 # CyberSecProject
 Project Participants:
-Aryan Thapliyal 
-Shaik Baba fakkrudin
+Aryan Thapliyal,
+Shaik Baba fakkrudin,
 Mehak Khanna
 
 link :
